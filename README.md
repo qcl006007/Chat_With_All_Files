@@ -2,7 +2,7 @@
 Chat with all your files, including pdf, txt, markdown, etc; You can use it in your computer, easy to use and nice to have.
 
 # Chatgpt 百宝箱项目之chat_with_all_files in desktop
-# chatgpt with files project 持续更新，纯手工整理，欢迎star！
+## chatgpt with files 欢迎star！
 # 最近更新时间: 20230522
 
 # 使用说明/description:
