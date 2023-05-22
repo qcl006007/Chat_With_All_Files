@@ -17,9 +17,10 @@ Chat with all your files, including pdf, txt, markdown, etc; You can use it in y
 
 ![image](https://github.com/qcl006007/Chat_With_All_Files/assets/29529384/1ef69a47-51e5-4136-b02e-0d47e1898b18)
 
-1. select a file (.pdf, .txt, .md, docx, and so on)
-2. ask your question and click on submit (问问题并且点击提交)
-3. then wait for answer (it may has some wrong problem)
+1. fill in your openai key in .env file
+2. select a file (.pdf, .txt, .md, docx, and so on)
+3. ask your question and click on submit (问问题并且点击提交)
+4. then wait for answer (it may has some wrong problem)
 
 
 ## Future development plan / 未来计划
